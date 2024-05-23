@@ -1,1 +1,1 @@
-The code in under review.
+The code is under review.
